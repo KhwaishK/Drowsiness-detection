@@ -12,6 +12,6 @@
 !requirements.txt
 !.gitignore
 
-# 4. Whitelist the sample_data folder and everything inside it
+# Whitelist the sample_data folder and everything inside it
 !sample_data/
 !sample_data/**
