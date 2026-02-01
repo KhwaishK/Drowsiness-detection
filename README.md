@@ -20,7 +20,7 @@ This project implements a complete pipeline for building a custom drowsiness det
 Drowsiness-detection/
 ├── sample_data/           # Sample images for testing
 ├── collect_data.py        # Script for capturing training data via webcam
-├── training.ipynb         # Jupyter notebook for training YOLOv26 model
+├── training.ipynb         # Jupyter notebook for training YOLO26 model
 ├── predict.ipynb          # Jupyter notebook for predictions
 ├── dataset.yaml           # Dataset configuration for YOLO
 ├── requirements.txt       # Python dependencies
