@@ -24,7 +24,7 @@ Drowsiness-detection/
 ├── predict.ipynb          # Jupyter notebook for predictions
 ├── dataset.yaml           # Dataset configuration for YOLO
 ├── requirements.txt       # Python dependencies
-└── .gitignore            # Git ignore file
+└── .gitignore             # Git ignore file
 ```
 
 ## 🛠️ Requirements
