@@ -1,0 +1,17 @@
+# ignore EVERYTHING
+*
+
+# Allow directories 
+!*/
+
+# Whitelist ONLY the specific files
+!collect_data.py
+!Training.ipynb
+!predict.ipynb
+!dataset.yaml
+!requirements.txt
+!.gitignore
+
+# 4. Whitelist the sample_data folder and everything inside it
+!sample_data/
+!sample_data/**
